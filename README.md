@@ -166,4 +166,4 @@ Then open the local TensorBoard address shown in the terminal.
 
 The random tensor values and neural network results can vary slightly when the notebook is executed again because model training and random tensor generation can depend on random initialization and other runtime factors.
 
-The results and observations in this README are based on the outputs recorded in the submitted notebook.
+
