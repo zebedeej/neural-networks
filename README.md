@@ -1,6 +1,5 @@
 ### Tensor Reshaping and Neural Network Operations
-
-This repository contains the work completed for  Assignment 1. The assignment uses TensorFlow and Python to demonstrate tensor operations, loss functions, neural network optimization, MNIST classification, and TensorBoard logging.
+The assignment uses TensorFlow and Python to demonstrate tensor operations, loss functions, neural network optimization, MNIST classification and TensorBoard logging.
 
 ## Contents
 
